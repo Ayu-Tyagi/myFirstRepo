@@ -8,7 +8,6 @@ public class   LibraryEventsProducerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LibraryEventsProducerApplication.class, args);
-		// this is the main commeent tushar 
-		// Changes added by Ayushi Tyagi   tushar's version
+		// Changes added by Ayushi Tyagi
 	}
 }
